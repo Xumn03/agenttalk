@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "builder": "*"
+        "builder": "*",
+        "events": "*"
     },
     "files": [
         "main.blocks",
